@@ -1,0 +1,7 @@
+gcc shm_clientA.c -o shm_clientA
+gcc shm_clientB.c -o shm_clientB
+gcc shm_clientC.c -o shm_clientC
+gcc shm_server.c -o shm_server
+
+
+
